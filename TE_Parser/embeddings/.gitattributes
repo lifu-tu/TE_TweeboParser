@@ -1,0 +1,1 @@
+wordvects.tw100w5-m40-it2 filter=lfs diff=lfs merge=lfs -text

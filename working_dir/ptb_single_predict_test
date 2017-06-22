@@ -1,0 +1,37 @@
+1	Word	_	!	!	_	3	_
+2	I'm	_	L	L	_	0	_
+3	bout	_	P	P	_	16	_
+4	to	_	P	P	_	3	_
+5	holla	_	V	V	_	4	_
+6	at	_	P	P	_	5	_
+7	her	_	O	O	_	6	_
+8	via	_	P	P	_	5	_
+9	twitter	_	^	^	_	8	_
+10	RT	_	~	~	_	-1	_
+11	@iamJay_Fresh	_	@	@	_	-1	_
+12	:	_	~	~	_	-1	_
+13	#trushit	_	#	#	_	-1	_
+14	-	_	,	,	_	-1	_
+15	im	_	L	L	_	0	_
+16	tryna	_	V	V	_	0	_
+17	fucc	_	V	V	_	16	_
+18	nicki	_	^	^	_	19	_
+19	minaj	_	^	^	_	17	_
+20	lol	_	!	!	_	17	_
+
+1	To	_	P	P	_	0	_
+2	appear	_	V	V	_	1	_
+3	(	_	,	,	_	-1	_
+4	EMNLP	_	^	^	_	2	_
+5	2014	_	$	$	_	4	_
+6	):	_	,	,	_	-1	_
+7	Detecting	_	V	V	_	2	_
+8	Non-compositional	_	^	^	_	10	_
+9	MWE	_	^	^	_	10	_
+10	Components	_	^	^	_	7	_
+11	using	_	V	V	_	10	_
+12	Wiktionary	_	N	N	_	11	_
+13	http://people.eng.unimelb.edu.au/tbaldwin/pubs/emnlp2014-mwe.pdf	_	U	U	_	-1	_
+14	…	_	,	,	_	-1	_
+15	#nlproc	_	#	#	_	-1	_
+
